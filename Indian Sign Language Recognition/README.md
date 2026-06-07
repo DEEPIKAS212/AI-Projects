@@ -5,6 +5,9 @@ This project aims to recognize Indian Sign Language (ISL) gestures using Deep Le
 - Perform image preprocessing and augmentation.
 - Train a deep learning model for sign language classification.
 - Evaluate model performance using classification metrics.
+## Dataset 
+Dataset can be downloaded from:
+Kaggle : https://www.kaggle.com/code/birajde/indian-sign-language-dataset/input
 ## Technologies Used
 - Python
 - TensorFlow / Keras
